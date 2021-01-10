@@ -1,6 +1,6 @@
 const CODES = {
   A: 'A'.charCodeAt(),
-  Z: 'B'.charCodeAt()
+  Z: 'Z'.charCodeAt()
 }
 
 function toCell(_, col) {
